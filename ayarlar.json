@@ -1,12 +1,5 @@
 {
   "prefix": "eb+",
-  "PREFIX": "eb+",
   "sahip": "338069940189921280",
-  "sahip2": "338069940189921280",
-  "adminID": "338069940189921280",
-  "token": ".i.",
-  "TOKEN": ".i.",
-  "allowedUsers" : ["338069940189921280", "338069940189921280"],
-  "roleToDisco" : ["rainbow", "rainbow"],
-  "ms" : 650
+  "token": "nabacan"
 }
